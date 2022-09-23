@@ -16,4 +16,10 @@ func main(){
 	} else {
 		fmt.Println("Hmm")
 	}
+
+	if leng := len(nama); leng < 10 {
+		fmt.Println("Ok")
+	} else {
+		fmt.Println("Not")
+	}
 }

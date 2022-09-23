@@ -1,2 +1,2 @@
 # golang-training
-Training Golang
+Training Golang, Archive Golang, Golang Syntax Helper

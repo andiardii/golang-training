@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	console "fmt"
+	helperGolang "golang-training/Basic/Helper"
+)
 
 func main() {
-	fmt.Println("Hello World")
+	console.Println("Hello World")
+	helperGolang.Hello()
 }
